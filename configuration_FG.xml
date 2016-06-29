@@ -7,7 +7,7 @@
         <localDBIP>localhost</localDBIP>
         <reportDataFolder>/home/ubuntu/FG</reportDataFolder>
         <CPUMetric>CPUUtil</CPUMetric>
-        <AppMetric>ResponseInfo<AppMetric>
+        <AppMetric>JobInfo<AppMetric>
         <parameter name='window' value='60' />
         <parameter name='LQNFile' value='/home/ubuntu/pcm2lqn-2015-01-23-111738.xml' />
         <parameter name='PCMProcessorScaleFile' value='/home/ubuntu/default.resourceenvironment' />
