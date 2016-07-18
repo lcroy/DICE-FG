@@ -1,7 +1,7 @@
 # DICE FG
 ==============
 
-Installation instructions of FG-DICE are available in the [wiki](https://github.com/dice-project/DICE-FG/wiki): 
+Installation instructions of FG-DICE are available in the [wiki](https://github.com/dice-project/DICE-FG/wiki).
 
 ##License##
 
